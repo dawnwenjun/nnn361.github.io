@@ -3,7 +3,8 @@
   <entry>
     <title>HelloVue</title>
     <url>/2020/04/05/HelloVue/</url>
-    <content><![CDATA[<h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p><img src="http://q8ckhebu5.bkt.clouddn.com/3.jpg" alt="ii"></p>
+    <content><![CDATA[<h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">&#123;% qnimg 9.jpg title:七牛云 alt:七牛云 <span class="string">'class:'</span> extend:?imageView2/2/w/450 %&#125;</span><br></pre></td></tr></table></figure>
+
 <p>正解：安装最新版的：</p>
 <p>卸载2.x版本的vue-cli ：</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm uninstall -g vue-cli 或 yarn global remove vue-cli</span><br></pre></td></tr></table></figure>
@@ -103,8 +104,6 @@
 <li><strong>view</strong>，以声明方式将 <strong>state</strong> 映射到视图；</li>
 <li><strong>actions</strong>，响应在 <strong>view</strong> 上的用户输入导致的状态变化。</li>
 </ul>
-<p><img src="/.xyz//flow-1586092201028.png" alt="img"></p>
-<p><img src="/.xyz//vuex-1586092211455.png" alt="vuex"></p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">vuex数据管理</span><br><span class="line">状态管理模式</span><br><span class="line">store</span><br><span class="line">Mutation</span><br><span class="line">getters</span><br><span class="line">Action</span><br><span class="line">mapState</span><br><span class="line">mapActions</span><br><span class="line">mapMutions</span><br></pre></td></tr></table></figure>
 
 <h4 id="getters"><a href="#getters" class="headerlink" title="getters"></a>getters</h4><p>有时候需要从store中的state中派生一些状态  可以理解为vuex中数据的computed功能</p>
