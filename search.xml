@@ -3,7 +3,11 @@
   <entry>
     <title>HelloVue</title>
     <url>/2020/04/05/HelloVue/</url>
-    <content><![CDATA[<h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><img title="七牛云" alt="七牛云" src="http://vinceblog.qiniudn.com/static/images/7.jpg?imageView2/2/w/450">
+    <content><![CDATA[<h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><img title="七牛云" alt="七牛云" src="http://vinceblog.qiniudn.com/static/images/1.jpg?imageView2/2/w/450">
+
+<img title="七牛云" alt="七牛云" src="http://vinceblog.qiniudn.com/static/images/2.jpg?imageView2/2/w/450">
+
+<img title="七牛云" alt="七牛云" src="http://vinceblog.qiniudn.com/static/images/3.jpg?imageView2/2/w/450">
 
 <p>正解：安装最新版的：</p>
 <p>卸载2.x版本的vue-cli ：</p>
