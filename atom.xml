@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Vince&#39;s Blog</title>
+  
+  <subtitle>路一步步走 留下脚印。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://vincen.xyz/"/>
+  <updated>2020-04-06T11:15:39.262Z</updated>
+  <id>https://vincen.xyz/</id>
+  
+  <author>
+    <name>Vince_jun</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>bookListMarch</title>
+    <link href="https://vincen.xyz/2020/04/06/bookListMarch/"/>
+    <id>https://vincen.xyz/2020/04/06/bookListMarch/</id>
+    <published>2020-04-06T09:49:31.000Z</published>
+    <updated>2020-04-06T11:15:39.262Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="三月份书单"><a href="#三月份书单" class="headerlink" title="三月份书单"></a>三月份书单</h3><p><a href="https://weread.qq.com/web/appreader/0473298071916d74047a9aa?wtheme=white&wfrom=app&wvid=225044800" target="_blank" rel="noopener">复盘：对过去的事情做思维演练（实践版）-陈中-微信读书</a></p><p><a href="https://weread.qq.com/web/appreader/5bf328405cfd8f5bf26b4f3?wtheme=white&wfrom=app&wvid=225044800" target="_blank" rel="noopener">罗辑思维：我懂你的知识焦虑-罗振宇等</a></p><h3 id="读书感悟"><a href="#读书感悟" class="headerlink" title="读书感悟"></a>读书感悟</h3><p>等待更新!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;三月份书单&quot;&gt;&lt;a href=&quot;#三月份书单&quot; class=&quot;headerlink&quot; title=&quot;三月份书单&quot;&gt;&lt;/a&gt;三月份书单&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://weread.qq.com/web/appreader/0473298071916
+      
+    
+    </summary>
+    
+    
+      <category term="Read" scheme="https://vincen.xyz/categories/Read/"/>
+    
+    
+      <category term="Book" scheme="https://vincen.xyz/tags/Book/"/>
+    
+  </entry>
+  
+</feed>
