@@ -3,7 +3,8 @@
   <entry>
     <title>HelloVue</title>
     <url>/2020/04/05/HelloVue/</url>
-    <content><![CDATA[<h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p>正解：安装最新版的：</p>
+    <content><![CDATA[<h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p><img src="http://q8ckhebu5.bkt.clouddn.com/3.jpg" alt="ii"></p>
+<p>正解：安装最新版的：</p>
 <p>卸载2.x版本的vue-cli ：</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm uninstall -g vue-cli 或 yarn global remove vue-cli</span><br></pre></td></tr></table></figure>
 
@@ -81,7 +82,7 @@
 
 <h4 id="动态路由"><a href="#动态路由" class="headerlink" title="动态路由"></a>动态路由</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">		&#123;</span><br><span class="line">            path:&#39;&#x2F;about&#x2F;:id&#39;,</span><br><span class="line">            name:&#39;about&#39;,</span><br><span class="line">            component:About</span><br><span class="line">        &#125;</span><br><span class="line">        </span><br><span class="line">this.$route.params.id</span><br></pre></td></tr></table></figure>
 
-<p><img src="/.xyz//1580648022190-1586092187590.png" alt="1580648022190"></p>
+<p><img src="/.xyz//1.jpg" alt="1580648022190"></p>
 <h4 id="参数属性传递"><a href="#参数属性传递" class="headerlink" title="参数属性传递"></a>参数属性传递</h4><p>设置props属性  获取路由的变量 就和普通的属性传递没什么区别</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line">     path:&#39;&#x2F;about&#x2F;:id&#39;,</span><br><span class="line">     name:&#39;about&#39;,</span><br><span class="line">     props:true,</span><br><span class="line">     component:About</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">&lt;div&gt;&#123;&#123;id&#125;&#125;&lt;&#x2F;div&gt;</span><br><span class="line"></span><br><span class="line">export default&#123;</span><br><span class="line">	props:[&#39;id&#39;]</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
@@ -170,23 +171,5 @@
         <tag>Markdown</tag>
         <tag>Typora</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2020/02/29/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
   </entry>
 </search>
