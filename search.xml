@@ -3,12 +3,7 @@
   <entry>
     <title>HelloVue</title>
     <url>/2020/04/05/HelloVue/</url>
-    <content><![CDATA[<h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><img title="七牛云" alt="七牛云" src="http://vinceblog.qiniudn.com/static/images/1.jpg?imageView2/2/w/450">
-
-<img title="七牛云" alt="七牛云" src="http://vinceblog.qiniudn.com/static/images/2.jpg?imageView2/2/w/450">
-
-<img title="七牛云" alt="七牛云" src="http://vinceblog.qiniudn.com/static/images/3.jpg?imageView2/2/w/450">
-
+    <content><![CDATA[<h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p><img src="http://q8ckhebu5.bkt.clouddn.com/static/images/1.jpg" alt></p>
 <p>正解：安装最新版的：</p>
 <p>卸载2.x版本的vue-cli ：</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm uninstall -g vue-cli 或 yarn global remove vue-cli</span><br></pre></td></tr></table></figure>
@@ -25,8 +20,7 @@
 <p>​        element集成 </p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">vue add element</span><br></pre></td></tr></table></figure>
 
-
-
+<p><img src="/.xyz//2.jpg" alt></p>
 <p>Components组件取名习惯</p>
 <p>1.大写名字  例如 </p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Inputs.vue   InputsList.vue</span><br></pre></td></tr></table></figure>
@@ -169,6 +163,7 @@
 <h4 id="从express4-0版本之后，express便将命令工具分出来了，需要安装一个命令工具"><a href="#从express4-0版本之后，express便将命令工具分出来了，需要安装一个命令工具" class="headerlink" title="从express4.0版本之后，express便将命令工具分出来了，需要安装一个命令工具"></a>从express4.0版本之后，express便将命令工具分出来了，需要安装一个命令工具</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install -g express-generator</span><br></pre></td></tr></table></figure>
 
 <h4 id="输入express-version"><a href="#输入express-version" class="headerlink" title="输入express --version"></a>输入<code>express --version</code></h4><p>4.16.1</p>
+<p><img src="/.xyz//3.jpg" alt></p>
 ]]></content>
       <tags>
         <tag>Typora</tag>
