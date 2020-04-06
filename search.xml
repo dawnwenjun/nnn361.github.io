@@ -3,7 +3,7 @@
   <entry>
     <title>HelloVue</title>
     <url>/2020/04/05/HelloVue/</url>
-    <content><![CDATA[<h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">&#123;% qnimg 9.jpg title:七牛云 alt:七牛云 <span class="string">'class:'</span> extend:?imageView2/2/w/450 %&#125;</span><br></pre></td></tr></table></figure>
+    <content><![CDATA[<h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><img title="七牛云" alt="七牛云" src="http://vinceblog.qiniudn.com/static/images/7.jpg?imageView2/2/w/450">
 
 <p>正解：安装最新版的：</p>
 <p>卸载2.x版本的vue-cli ：</p>
@@ -167,8 +167,8 @@
 <h4 id="输入express-version"><a href="#输入express-version" class="headerlink" title="输入express --version"></a>输入<code>express --version</code></h4><p>4.16.1</p>
 ]]></content>
       <tags>
-        <tag>Markdown</tag>
         <tag>Typora</tag>
+        <tag>Vue</tag>
       </tags>
   </entry>
 </search>
